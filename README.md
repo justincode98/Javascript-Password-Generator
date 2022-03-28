@@ -6,7 +6,7 @@ The generator should allow for creations of passwords between 8 and 128 characte
 Download the code and run index.html found in the Develop folder with a web browser. 
 This code was tested in Google Chrome.
 
-Alternatively it can be found here: https://justincode98.github.io/Justin-Javascript-Password-Generator/.
+Alternatively it can be found here: https://justincode98.github.io/Justin-Javascript-Password-Generator/Develop/index.html.
 
 ## Usage
 After running index.html, clicking on the "Generate Password" button should launch a series of prompts.
